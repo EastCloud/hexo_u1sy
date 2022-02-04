@@ -3,7 +3,8 @@ title: The first thing.
 date: 2021-02-02 23:55:00
 categories: 杂言
 cate_eng: says
-urlname: start
+urlname: start.html
+sticky: 100
 tags:
 ---
 <!--markdown-->![72CBA59A-F1D6-42D1-B2B9-4F3BE0158135.jpeg](https://cdn.jsdelivr.net/gh/EastCloud/u1sy_blog_1@latest/usr/uploads/2021/03/3040119981.jpeg)!
