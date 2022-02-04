@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://www.u1sy.cn/sitemap.xml
