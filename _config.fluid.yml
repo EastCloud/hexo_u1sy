@@ -436,7 +436,7 @@ footer:
 index:
   # 首页 Banner 头图，可以是相对路径或绝对路径，以下相同
   # Path of Banner image, can be a relative path or an absolute path, the same on other pages
-  banner_img: /img/default.png
+  banner_img: https://cdn.jsdelivr.net/gh/EastCloud/cdn@master/blog/img/66564d6e2b9f955cd38bf3e4cf2d1cb3.jpg
 
   # 头图高度，屏幕百分比
   # Height ratio of banner image
@@ -967,9 +967,9 @@ links:
 static_prefix:
   # 内部静态
   # Internal static
-  internal_js: /js
-  internal_css: /css
-  internal_img: /img
+  internal_js: https://cdn.jsdelivr.net/gh/EastCloud/cdn@master/blog/js/
+  internal_css: https://cdn.jsdelivr.net/gh/EastCloud/cdn@master/blog/css/
+  internal_img: https://cdn.jsdelivr.net/gh/EastCloud/cdn@master/blog/img/
 
   anchor: https://cdn.jsdelivr.net/npm/anchor-js@4/
 
