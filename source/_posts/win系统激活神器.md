@@ -2,7 +2,7 @@
 title: 系统激活神器：HEU KMS Activator
 date: 2022-03-12 13:48:00
 categories: 安利
-cate_eng: ahare
+cate_eng: share
 urlname: windows-activation
 tags:
 ---
